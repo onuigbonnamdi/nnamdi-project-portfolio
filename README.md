@@ -26,8 +26,11 @@ Systems focused on automation, AI agents, and decision-making workflows.
 
 AI applied to real-world systems such as transport and energy.
 
- AI Traffic Flow Prediction & Signal Optimisation  
+- AI Traffic Flow Prediction & Signal Optimisation  
   https://github.com/onuigbonnamdi/ai-traffic-flow-optimisation
+
+- AI Energy Consumption Prediction & Load Optimisation  
+  https://github.com/onuigbonnamdi/ai-energy-consumption-optimisation
 
 ---
 
